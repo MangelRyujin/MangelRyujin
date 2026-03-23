@@ -15,7 +15,6 @@
 
 <br>
 
-
 <br>
 
 <!-- CONTACT LINKS -->
@@ -56,19 +55,22 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 <tr>
 <td align="center">
 
-### ⚡ Lenguajes  
+### ⚡ Lenguajes
+
 [![Skills](https://skillicons.dev/icons?i=python,js,ts&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
 <td align="center">
 
-### 🎨 Frontend  
+### 🎨 Frontend
+
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
 <td align="center">
 
-### ⚙️ Backend  
+### ⚙️ Backend
+
 [![Skills](https://skillicons.dev/icons?i=fastapi,django,nestjs,graphql&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
@@ -78,24 +80,26 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 <tr>
 <td align="center">
 
-### 🗄️ Base de Datos  
+### 🗄️ Base de Datos
+
 [![Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
 <td align="center">
 
-### ☁️ Cloud & DevOps  
+### ☁️ Cloud & DevOps
+
 [![Skills](https://skillicons.dev/icons?i=aws,docker,linux&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
 <td align="center">
 
-### 🧰 Herramientas  
+### 🧰 Herramientas
+
 [![Skills](https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
-<td></td>
-<td></td>
+
 </tr>
 
 </table>
@@ -125,7 +129,7 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 <td>
 
 **🔵 FullStack Developer** &nbsp;·&nbsp; <kbd>Mar 2025 – Oct 2025</kbd>  
-**Nexkap** &nbsp;·&nbsp; *Sistema clínico – EE.UU.*  
+**Nexkap** &nbsp;·&nbsp; _Sistema clínico – EE.UU._  
 `React` `FastAPI` `PostgreSQL`
 
 > Automatización de procesos clínicos, módulos de gestión de pacientes y digitalización de operaciones manuales.
@@ -137,7 +141,7 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 <td width="8"></td>
 <td>
 
-**🟡 FullStack Developer** *(Freelance)* &nbsp;·&nbsp; <kbd>Feb – Abr 2025</kbd>  
+**🟡 FullStack Developer** _(Freelance)_ &nbsp;·&nbsp; <kbd>Feb – Abr 2025</kbd>  
 **Capital Technological**  
 `Next.js` `Django` `Docker`
 
@@ -150,7 +154,7 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 <td width="8"></td>
 <td>
 
-**🟡 FullStack Developer** *(Freelance)* &nbsp;·&nbsp; <kbd>Nov 2024 – Ene 2025</kbd>  
+**🟡 FullStack Developer** _(Freelance)_ &nbsp;·&nbsp; <kbd>Nov 2024 – Ene 2025</kbd>  
 **Proyecto Raúl Sasson**  
 `React` `Django` `PostgreSQL`
 
@@ -164,7 +168,7 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 <td>
 
 **🔵 FullStack Developer** &nbsp;·&nbsp; <kbd>Abr – Jun 2024</kbd>  
-**La Rueda de la Fortuna** &nbsp;·&nbsp; *Cienfuegos, Cuba*
+**La Rueda de la Fortuna** &nbsp;·&nbsp; _Cienfuegos, Cuba_
 
 > Sistema de ventas y automatización para cafetería, análisis estadístico y gestión de turnos operativos.
 
@@ -175,7 +179,7 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 <td width="8"></td>
 <td>
 
-**🔷 Backend Developer** *(Part-time)* &nbsp;·&nbsp; <kbd>Mar 2023 – Abr 2024</kbd>  
+**🔷 Backend Developer** _(Part-time)_ &nbsp;·&nbsp; <kbd>Mar 2023 – Abr 2024</kbd>  
 **Perlatec S.R.L**
 
 > Sistemas de inventario y gestión empresarial. Creación de APIs y lógica de negocio.
@@ -203,10 +207,10 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 
 <div align="center">
 
-| | Título | Institución | Periodo |
-|:---:|:---|:---|:---:|
-| 📘 | **Maestría en Docencia Universitaria y Gestión Académica** *(en curso)* | UTP – Univ. Tecnológica del Perú · Lima, Perú | `Feb 2026 – Actualidad` |
-| 🎓 | **Ingeniería Informática** | Univ. Carlos Rafael Rodríguez · Cienfuegos, Cuba | `2017 – 2023` |
+|     | Título                                                                  | Institución                                      |         Periodo         |
+| :-: | :---------------------------------------------------------------------- | :----------------------------------------------- | :---------------------: |
+| 📘  | **Maestría en Docencia Universitaria y Gestión Académica** _(en curso)_ | UTP – Univ. Tecnológica del Perú · Lima, Perú    | `Feb 2026 – Actualidad` |
+| 🎓  | **Ingeniería Informática**                                              | Univ. Carlos Rafael Rodríguez · Cienfuegos, Cuba |      `2017 – 2023`      |
 
 </div>
 
@@ -218,14 +222,14 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 <tr>
 <td width="50%">
 
-| Habilidad | Nivel |
-|:----------|:------|
-| Liderazgo técnico | `█████████░` 90% |
-| Trabajo en equipo | `██████████` 100% |
-| Resolución de problemas | `█████████░` 90% |
-| Gestión de proyectos | `████████░░` 80% |
-| Comunicación efectiva | `████████░░` 80% |
-| Análisis de procesos | `█████████░` 90% |
+| Habilidad               | Nivel             |
+| :---------------------- | :---------------- |
+| Liderazgo técnico       | `█████████░` 90%  |
+| Trabajo en equipo       | `██████████` 100% |
+| Resolución de problemas | `█████████░` 90%  |
+| Gestión de proyectos    | `████████░░` 80%  |
+| Comunicación efectiva   | `████████░░` 80%  |
+| Análisis de procesos    | `█████████░` 90%  |
 
 </td>
 <td width="50%" align="center">
@@ -263,6 +267,6 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d7c6e,100,0f1923&height=120&section=footer&reversal=false" width="100%"/>
 
-*`"El código limpio hace una sola cosa — pero la hace bien."`*
+_`"El código limpio hace una sola cosa — pero la hace bien."`_
 
 </div>
