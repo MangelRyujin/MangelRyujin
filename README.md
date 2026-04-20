@@ -71,8 +71,12 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 
 ### ⚙️ Backend
 
-[![Skills](https://skillicons.dev/icons?i=fastapi,django,nestjs,graphql,gin&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=fastapi,django,nestjs,graphql,go&theme=dark&perline=5)](https://skillicons.dev)
+<br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gin-Framework-14a593?style=for-the-badge&logo=go&logoColor=white&labelColor=060a0e"/>
+</p>
 </td>
 
 </tr>
