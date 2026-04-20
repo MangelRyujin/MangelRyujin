@@ -57,7 +57,7 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 
 ### ⚡ Lenguajes
 
-[![Skills](https://skillicons.dev/icons?i=python,js,ts&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,go&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
 <td align="center">
@@ -71,7 +71,7 @@ Ingeniero Informático con experiencia en desarrollo **FullStack**, especializad
 
 ### ⚙️ Backend
 
-[![Skills](https://skillicons.dev/icons?i=fastapi,django,nestjs,graphql&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=fastapi,django,nestjs,graphql,gin&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
 
